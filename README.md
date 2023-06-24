@@ -29,9 +29,7 @@ Markdown Syntax: `> Proposition...`
 What I want to do next
 1. Install Git
 2. Practice with Git
-3. Lookup MatLab Drive, GitHub combined
-4. Make table of files, description, and new location
-5. Import/arrange files
+3. Learn how to use Notepad++
 
 Markdown Syntax: 
 ```
