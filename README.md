@@ -30,6 +30,7 @@ What I want to do next
 1. Install Git
 2. Practice with Git
 3. Learn how to use Notepad++
+4. Learn to use TortoiseGit in a way that is compatible with security "features"
 
 Markdown Syntax: 
 ```
